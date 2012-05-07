@@ -5,7 +5,7 @@
 NAME = "ZenPacks.community.NetApp"
 VERSION = "1.19"
 AUTHOR = "Sonny Stormes / Wouter D'Haeseleer / David Nicklay"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.NetApp']
 INSTALL_REQUIRES = []
